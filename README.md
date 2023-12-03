@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bpetersson
 - 👀 I’m interested in lucrative side hustle
 - 🌱 I’m currently learning data science tools IBM cert. program
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on building data science skill set
 - 📫 How to reach me ...
 
 <!---
